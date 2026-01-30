@@ -28,9 +28,5 @@ A full-stack **Todo Application** built using the **MERN stack** (MongoDB, Expre
 - bcryptjs
 - dotenv
 - cors
-- morgan
-
----
-
-## 📁 Project Structure
+  
 
